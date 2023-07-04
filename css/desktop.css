@@ -1,0 +1,77 @@
+    
+  header{
+    height: 5vh;
+  } 
+ 
+  nav{
+    margin-left: 130rem;
+  }
+  
+
+  main{
+    height: 77.5vh;
+   
+  }
+
+  .img-google{
+    width: 20%;
+    margin-top: 1rem;
+  }
+
+  .conter-buscador{
+    padding: 1rem;
+  }
+
+  .buscador{
+    width: 50rem;
+    
+  }
+  
+  .btn{
+    width: 17rem;
+    height: 4rem;
+    margin: 1rem;
+    background-color:#f8f9fa;
+    font-size: 1.5rem;
+    color: #7d7d7d;
+    border: none;
+    border-radius: 0.3125rem;
+    
+  }
+
+  .btn:hover{
+    border: 0.0625rem solid #c6c6c6;
+    box-shadow: 0px 1px 1px rgba(0,0,0,0.1);
+    color: #222;
+    background-color: #f8f8f8;
+    cursor: pointer;
+  }
+  
+
+  .opciones-lista a{
+    display: flex;
+    align-items: center;
+  }
+  
+
+  .conter-idioma{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .sub-titulo{
+    font-size: small;
+  }
+  
+
+
+  footer{
+    height: 15vh;
+  }
+  .opciones{
+    display: flex;
+    justify-content: space-between;
+  
+  }
